@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MitchellShibilski-Unkel
 - 🌱 I’m currently learning machine learning
 
-<br>
+<hr>
 
-**Top Project:** PyPC
-<br>
-**Top AI Project:** PyAI
+- **Top Project:** PyPC
+- **Top AI Project:** PyAI
