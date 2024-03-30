@@ -4,4 +4,4 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mitchellshibilski-unkel&count_private=true&theme=dark&showicons=true)]()
 
 - **Top Project:** PyPC
-- **Top AI Project:** PyAI
+- **Top AI Project:** PyAI | <a href="https://github.com/MitchellShibilski-Unkel/PyAI">Link</a>
