@@ -5,4 +5,4 @@
 
 - **Top Project:** *PyPC* | <a href="https://github.com/MitchellShibilski-Unkel/PyPC">Link</a>
 - **Top AI Project:** *PyAI* | <a href="https://github.com/MitchellShibilski-Unkel/PyAI">Link</a>
-- **Top Linux Related Project:** *Munix* | <a href="https://github.com/MitchellShibilski-Unkel/Munix">Link</a>
+- **Top Munix Related Project:** *Munix* | <a href="https://github.com/MitchellShibilski-Unkel/Munix">Link</a>
