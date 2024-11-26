@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MitchellShibilski-Unkel
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning machine learning & Rust
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mitchellshibilski-unkel&count_private=true&theme=github_dark&showicons=false&custom_title=Stats)]() 
 
