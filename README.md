@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitchell Shibilski-Unkel</h1>
 <h3 align="center">I'm a Python, C/C++, and Arduino programmer. In addition, I have experience with machine learning.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mitchellshibilski-unkel&label=Profile%20views&color=0e75b6&style=flat" alt="mitchellshibilski-unkel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mitchellshibilski-unkel&label=Profile+Views&color=3576AE&style=for-the-badge" alt="mitchellshibilski-unkel" /> </p>
 
 <p align="center">🌱 I’m currently learning <strong>machine learning & Rust</strong></p>
 <p align="center">Top Projects: <strong>PyAI, RustML, & PyPC</strong></p>
