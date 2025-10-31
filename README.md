@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mitchell Shibilski-Unkel</h1>
-<h3 align="center">I'm a Python, C/C++, and Arduino programmer. In addition, I have experience with machine learning.</h3>
+<h3 align="center">Python, C/C++, and Arduino programmer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mitchellshibilski-unkel&label=Profile+Views&color=3576AE&style=for-the-badge" alt="mitchellshibilski-unkel" /> </p>
 
